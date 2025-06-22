@@ -1,0 +1,14 @@
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\bin\Debug\net9.0\Ex1_Singleton.exe
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\bin\Debug\net9.0\Ex1_Singleton.deps.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\bin\Debug\net9.0\Ex1_Singleton.runtimeconfig.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\bin\Debug\net9.0\Ex1_Singleton.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\bin\Debug\net9.0\Ex1_Singleton.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\refint\Ex1_Singleton.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\Ex1_Singleton.genruntimeconfig.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex1_Singleton\obj\Debug\net9.0\ref\Ex1_Singleton.dll
