@@ -1,0 +1,15 @@
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.sourcelink.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Week1\Design_Patterns_and_Principles\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll
