@@ -1,0 +1,15 @@
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\bin\Debug\net9.0\Ex3_Builder.exe
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\bin\Debug\net9.0\Ex3_Builder.deps.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\bin\Debug\net9.0\Ex3_Builder.runtimeconfig.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\bin\Debug\net9.0\Ex3_Builder.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\bin\Debug\net9.0\Ex3_Builder.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.AssemblyInfoInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.AssemblyInfo.cs
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.sourcelink.json
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\refint\Ex3_Builder.dll
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.pdb
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\Ex3_Builder.genruntimeconfig.cache
+C:\Users\KIIT\Documents\Deepskilling\Deepskilling_Solutions-1\Ex3_Builder\obj\Debug\net9.0\ref\Ex3_Builder.dll
