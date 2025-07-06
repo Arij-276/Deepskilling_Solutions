@@ -20,3 +20,18 @@ await context.Products.AddRangeAsync(product1, product2);
 await context.SaveChangesAsync();
 
 Console.WriteLine("Initial data inserted successfully.");
+
+using var context = new AppDbContext();
+
+// 1. Retrieve all products
+var products = await context.Products.ToListAsync();
+foreach (var p in products)
+    Console.WriteLine($"{p.Name} - ₹{p.Price}");
+
+// 2. Find by ID
+var product = await context.Products.FindAsync(1);
+Console.WriteLine($"Found: {product?.Name}");
+
+// 3. FirstOrDefault with Condition
+var expensive = await context.Products.FirstOrDefaultAsync(p => p.Price > 50000);
+Console.WriteLine($"Expensive: {expensive?.Name}");
