@@ -1,9 +1,22 @@
-﻿using System;
+﻿using System.Threading.Tasks;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Retail Inventory System Started");
-    }
-}
+using var context = new AppDbContext();
+
+// Create categories
+var electronics = new Category { Name = "Electronics" };
+var groceries = new Category { Name = "Groceries" };
+
+// Add categories
+await context.Categories.AddRangeAsync(electronics, groceries);
+
+// Create products and assign categories
+var product1 = new Product { Name = "Laptop", Price = 75000, Category = electronics };
+var product2 = new Product { Name = "Rice Bag", Price = 1200, Category = groceries };
+
+// Add products
+await context.Products.AddRangeAsync(product1, product2);
+
+// Save changes to the database
+await context.SaveChangesAsync();
+
+Console.WriteLine("Initial data inserted successfully.");

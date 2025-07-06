@@ -1,12 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-public class AppDbContext : DbContext
+﻿protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 {
-    public DbSet<Product> Products { get; set; }
-    public DbSet<Category> Categories { get; set; }
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseSqlServer("Your_Connection_String_Here");
-    }
+    optionsBuilder.UseSqlServer("Server=localhost;Database=RetailInventory;Trusted_Connection=True;");
 }
