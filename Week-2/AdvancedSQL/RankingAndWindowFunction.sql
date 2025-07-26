@@ -8,7 +8,7 @@ FROM Products;
 
 
 SELECT 
-    ProductID,
+    ProductID
     ProductName,
     Category,
     Price,
